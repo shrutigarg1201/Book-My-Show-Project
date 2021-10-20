@@ -52,7 +52,7 @@ const NavLg = () => {
 const MovieNavbar = () => {
     return (
         <>
-        <nav className="absolute inset-x-0 z-30 bg-opacity-10 backdrop-filter backdrop-blur-lg lg:relative bg-navColor-800 py-2 px-4">
+        <nav className="absolute inset-x-0 z-30 bg-opacity-90 backdrop-filter backdrop-blur-lg lg:relative bg-navColor-800 py-2 px-4">
             <div className="md:hidden">{
                 /*Mobile Screen*/
                 <NavSm />
